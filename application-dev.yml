@@ -1,3 +1,5 @@
 spring:
   application:
     name: dev-yml
+server:
+  port: 8888
